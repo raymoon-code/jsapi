@@ -48,15 +48,5 @@
             "Diesel": 4.92,
             "lat": 37.0011,
             "long": 118.9988
-        },
-        {
-            "gas brand": "Sunoco",
-            "logo": "https://www.sunoco.com/img/sunoco-share.jpg",
-            "regular gas": 3.6,
-            "midgrade gas": 4.2,
-            "premium gas": 4.65,
-            "Diesel": 5.1,
-            "lat": 36.7234,
-            "long": 118.3456
         }
     ]
