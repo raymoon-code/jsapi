@@ -4,10 +4,8 @@
             "logo": "https://1000logos.net/wp-content/uploads/2017/12/Chevron-Logo.png",
             "regular gas": 3.46,
             "midgrade gas": 4,
-            "premium gas": 4.46,
-            "Diesel": 4.9,
-            "lat": 36.8155,
-            "long": 119.7901
+            "premium gas": 4.46
+           
         },
         {
             "gas brand": "Shell",
