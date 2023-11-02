@@ -1,54 +1,11 @@
-
-        {
-            "gasBrand": "Chevron",
-            "logo": "https://1000logos.net/wp-content/uploads/2017/12/Chevron-Logo.png",
-            "regularGas": 3.46,
-            "midgradeGas": 4,
-        "premiumGas": 4.46,
-        "Diesel": 4.9,
-          "lat": 36.8155,
-            "long": 119.7901
-           
-        },
-        {
-            "gasBrand": "Shell",
-            "logo": "https://1000logos.net/wp-content/uploads/2017/06/Shell-Logo.png",
-            "regularGas": 3.55,
-            "midgradeGas": 4.05,
-            "premiumGas": 4.6,
-            "Diesel": 5,
-            "lat": 29.743326820414723,
-            "long": -95.73282480842774
-        },
-        {
-            "gasBrand": "Exxon",
-            "logo": "https://1000logos.net/wp-content/uploads/2020/06/Exxon-Logo.png",
-            "regularGas": 3.42,
-            "midgradeGas": 3.95,
-            "premiumGas": 4.4,
-            "Diesel": 4.85,
-            "lat": 34.2573433077388,
-            "long": -95.04466397355515
-        },
-        {
-            "gasBrand": "BP",
-            "logo": "https://cdn.freebiesupply.com/images/large/2x/bp-logo-png-transparent.png",
-            "regularGas": 3.5,
-            "midgradeGas": 4.1,
-            "premiumGas": 4.55,
-            "Diesel": 4.95,
-            "lat": 43.84839375503397,
-            "long": -89.47815017846258
-        },
-        {
-            "gasBrand": "Mobil",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mobil_logo.svg/1280px-Mobil_logo.svg.png",
-            "regularGas": 3.48,
-            "midgradeGas": 4.02,
-            "premiumGas": 4.48,
-            "Diesel": 4.92,
-            "lat": 44.94536143148558,
-            "long": -103.91967849511332
-        }
-       
-    
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
