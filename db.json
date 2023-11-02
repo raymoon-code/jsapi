@@ -50,14 +50,5 @@
             "lat": 44.94536143148558,
             "long": -103.91967849511332
         },
-         {
-        "gasBrand": "Sunoco",
-        "logo": "https://www.sunoco.com/img/sunoco-share.jpg",
-        "regularGas": 3.6,
-        "midgradeGas": 4.2,
-        "premiumGas": 4.65,
-        "Diesel": 5.1,
-        "lat": 36.57727468656298,
-        "long": -115.26281993570612
-    }
+       
     ]
